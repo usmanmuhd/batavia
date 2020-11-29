@@ -44,7 +44,7 @@
     "eslint-plugin-promise": "3.4.2",
     "eslint-plugin-react": "6.6.0",
     "eslint-plugin-standard": "2.0.1",
-    "webpack-dev-server": "2.3.0"
+    "webpack-dev-server": "3.1.11"
   },
   "dev": "webpack-dev-server",
   "dependencies": {
